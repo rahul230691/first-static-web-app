@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'first-static-angular-web-app';
+  title = 'Deploying First Angular Static Web App to Azure Static Web Apps (Preview)';
 }
